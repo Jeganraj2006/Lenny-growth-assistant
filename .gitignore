@@ -1,0 +1,17 @@
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+node_modules/
+.pnpm-store/
+dist/
+coverage/
+data/
+!data/.gitkeep
+agent/.pi/agent/auth.json
+agent/.pi/agent/sessions/
+_brief_render/
